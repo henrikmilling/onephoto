@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Visual Studio
+.vs/
+*.sln.iml
+*.user
+*.userprefs
+*.suo
+
+# Build files
+*.dll
+*.exe
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
