@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
     <RootNamespace>OnePhoto</RootNamespace>
     <AssemblyName>onephoto</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
