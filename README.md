@@ -1,4 +1,4 @@
-# OnePhoto
+# onephoto
 
 A C# command line tool application.
 

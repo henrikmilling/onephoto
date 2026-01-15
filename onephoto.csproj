@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
-    <RootNamespace>OnePhoto</RootNamespace>
+    <RootNamespace>onephoto</RootNamespace>
     <AssemblyName>onephoto</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>

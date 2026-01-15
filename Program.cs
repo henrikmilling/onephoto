@@ -1,4 +1,4 @@
-namespace OnePhoto;
+namespace onephoto;
 
 class Program
 {
